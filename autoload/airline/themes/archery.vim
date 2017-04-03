@@ -12,7 +12,6 @@
 "
 " URL:         https://github.com/Badacadabra/vim-archery
 " Author:      Baptiste Vannesson <contact@badacadabra.net>
-" Version:     0.0.1
 " License:     MIT
 " Description: Airline colorscheme inspired by Arch Linux colors
 "

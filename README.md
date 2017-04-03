@@ -38,7 +38,7 @@ If you only use GVim, you're done! If you use terminal Vim, read on...
 | ![color5](images/colors/color5.png)   | 5     | #8D4888 |
 | ![color6](images/colors/color6.png)   | 6     | #006596 |
 | ![color7](images/colors/color7.png)   | 7     | #53586F |
-| ![color8](images/colors/color8.png)   | 8     | #282D34 |
+| ![color8](images/colors/color8.png)   | 8     | #354151 |
 | ![color9](images/colors/color9.png)   | 9     | #C95F5F |
 | ![color10](images/colors/color10.png) | 10    | #73BA25 |
 | ![color11](images/colors/color11.png) | 11    | #EAC06E |
@@ -46,6 +46,8 @@ If you only use GVim, you're done! If you use terminal Vim, read on...
 | ![color13](images/colors/color13.png) | 13    | #B589C2 |
 | ![color14](images/colors/color14.png) | 14    | #25B8A5 |
 | ![color15](images/colors/color15.png) | 15    | #F6F9FC |
+
+In GVim, color8 will be `#282D34` instead of `#354151`. Why? Because some CLI tools use the dark gray color to display textual information. This makes some text unreadable, due to the dark background of Archery. So in terminal emulators, color8 must be lighter...
 
 ## Nice status & tab lines
 

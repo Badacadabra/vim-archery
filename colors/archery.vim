@@ -12,7 +12,6 @@
 "
 " URL:         https://github.com/Badacadabra/vim-archery
 " Author:      Baptiste Vannesson <contact@badacadabra.net>
-" Version:     0.0.1
 " License:     MIT
 " Description: Vim colorscheme inspired by Arch Linux colors
 "
@@ -237,7 +236,7 @@ hi SpellRare    cterm=NONE ctermfg=11   ctermbg=NONE gui=NONE guifg=#EAC06E guib
 " -----------------------------
 
 hi Directory    cterm=NONE ctermfg=4    ctermbg=NONE gui=bold guifg=#0088CC guibg=NONE
-hi LineNr       cterm=NONE ctermfg=7    ctermbg=8    gui=NONE guifg=#53586F guibg=#2B2D34
+hi LineNr       cterm=NONE ctermfg=8    ctermbg=NONE gui=NONE guifg=#53586F guibg=#2B2D34
 hi VertSplit    cterm=NONE ctermfg=4    ctermbg=8    gui=bold guifg=#0088CC guibg=#282D34
 hi ColorColumn  cterm=NONE ctermfg=NONE ctermbg=8    gui=NONE guifg=NONE    guibg=#2B2D34
 hi SignColumn   cterm=NONE ctermfg=12   ctermbg=8    gui=NONE guifg=#81A3CF guibg=#282D34
